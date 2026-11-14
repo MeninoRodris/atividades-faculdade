@@ -9,6 +9,12 @@ Repositório com as atividades práticas do curso de **Análise e Desenvolviment
 | [BPMN – Viagens corporativas](analise-e-modelagem-de-sistemas/bpmn-viagens-corporativas/) | Processo de solicitação, aprovação e confirmação de viagens, com 3 raias, 2 decisões e 15 fluxos | bpmn.io |
 | [Casos de uso – Controle de hotel](analise-e-modelagem-de-sistemas/casos-de-uso-hotel/) | Sistema de controle de hotel com os atores Hóspede e Funcionário e relações `<<include>>` e `<<extend>>` | Visual Paradigm Online |
 
+## Lógica e Matemática Computacional
+
+| Atividade | Conteúdo | Ferramenta |
+|---|---|---|
+| [Tabela verdade](logica-e-matematica-computacional/tabela-verdade/) | Tabelas verdade de ¬P, P → Q e (P ∧ Q) ∨ (¬P), com classificação em tautologia, contradição ou contingência | Python |
+
 ## Linguagem de Programação
 
 | Atividade | Conteúdo | Bibliotecas |
@@ -22,6 +28,7 @@ Repositório com as atividades práticas do curso de **Análise e Desenvolviment
 
 - Notação **BPMN 2.0**: raias, tarefas, gateways exclusivos, eventos de início e fim e fluxos de sequência.
 - Notação **UML**: atores, casos de uso, fronteira do sistema, associações, `<<include>>` e `<<extend>>`.
+- **Lógica proposicional**: tabelas verdade, negação, conjunção, disjunção, implicação e classificação de proposições.
 - **Python**: funções, condicionais, laços, classes, listas e dicionários.
 - **Análise de dados**: SQLite, Pandas (`groupby`, `describe`, tratamento de datas) e visualização com Matplotlib e Seaborn.
 - **Machine Learning**: pré-processamento, normalização, divisão treino/teste e rede neural com TensorFlow.
